@@ -1,2 +1,2 @@
-# microglia_morph
+# microglia_morphology
 An automated image processing tool to analyse microglia microscope images
